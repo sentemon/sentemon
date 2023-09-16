@@ -13,7 +13,7 @@
 - Secondary school education
 
 <p align="left">
-<a href="https://discord.gg/chill-code-973712150927388752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yNnaQrDC3W" height="30" width="40" /></a>
+<a href="https://discord.gg/vKhRdzKBme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yNnaQrDC3W" height="30" width="40" /></a>
 </p>
 
 <hr>
